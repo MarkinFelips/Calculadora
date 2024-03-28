@@ -1,0 +1,16 @@
+@viewport {
+
+    width: device-width;
+
+ }
+ @media screen and (min-width: 696px) {
+    .full-width-img {
+        margin: auto;
+        width: 90%;
+    }
+ }
+ .flex-container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+ }
